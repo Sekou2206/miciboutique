@@ -1,0 +1,44 @@
+M.I.C.I. CLOTHING APPAREL — SITE VITRINE ET CATALOGUE
+
+UTILISATION
+Ouvrir index.html dans un navigateur. Tous les fichiers doivent rester ensemble.
+Aucune installation, dépendance externe ou compilation n’est nécessaire.
+Pour GitHub Pages : placer tous les fichiers à la racine du dépôt, puis activer
+Pages dans les paramètres du dépôt, avec la branche et le dossier racine.
+
+CONTENU
+index.html : structure, textes, liens vers Instagram et points de vente.
+style.css : design, responsive et animations.
+script.js : données des 13 fiches, recherche, filtres, favoris et galeries.
+hero.mp4 : vidéo fournie, compressée en H.264 sans piste audio (environ 5,7 Mo).
+hero-poster.jpg : image de remplacement avant la lecture.
+article-01.jpg à article-19.jpg : images fournies, optimisées.
+
+FONCTIONS
+Hero vidéo automatique, muet, en boucle, avec lecture/pause.
+Animations d’entrée et apparition au défilement, réduites selon les préférences
+accessibilité de l’appareil. La vidéo n’est pas lancée automatiquement quand
+l’utilisateur préfère réduire les animations.
+Catalogue filtrable et recherche. Favoris enregistrés dans le navigateur.
+Fiches avec galerie selon les photos disponibles, copie d’une demande et lien
+Instagram. Les demandes ne sont pas envoyées automatiquement.
+
+À FINALISER AVEC LA MARQUE
+Les noms sont des descriptions éditoriales proposées, pas des références
+commerciales officielles. Les prix, matières, tailles et stocks n’ont pas été
+inventés : ils sont à confirmer auprès de la marque.
+Ce site est un catalogue avec contact Instagram, sans paiement, commande en
+ligne ou back-office. Remplacer les captures par les fichiers photo originaux
+si disponibles. Les modalités commerciales pourront être ajoutées ensuite.
+
+TESTS EFFECTUÉS
+Chromium : desktop 1440 px et mobile 390 px, absence de débordement horizontal,
+filtres, recherche, résultats vides, remise à zéro, détails, galerie, fermeture
+Échap, favoris et persistance, menu mobile, pause vidéo. Aucune erreur JavaScript
+constatée. Images chargées. MP4 vérifié avec ffprobe.
+
+MISE À JOUR
+Nouvelles chemises, surchemise noire et sac week-end. Galeries enrichies.
+La photo de basketball illustre l’univers du site : le ballon n’est pas
+présenté comme un produit à vendre. La silhouette noire déjà présente
+n’a pas été dupliquée.
