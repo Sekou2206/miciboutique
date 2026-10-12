@@ -42,3 +42,10 @@ Nouvelles chemises, surchemise noire et sac week-end. Galeries enrichies.
 La photo de basketball illustre l’univers du site : le ballon n’est pas
 présenté comme un produit à vendre. La silhouette noire déjà présente
 n’a pas été dupliquée.
+
+MISE À JOUR (bio, slogan et cadrage)
+Bio officielle ajoutée dans la section « À propos » (créée en 2021, sport chic, Maison d’inspiration et création ivoirienne).
+Slogan DRESS — FEEL — BE DIFFERENT : hero, titre de la section « À propos », pied de page.
+Cadrage : les photos portant le texte « MICI CLOTHING APPAREL » ne sont plus recadrées (cartes, fiches, accessoires).
+Les photos article-02 et article-04 ont le texte déjà coupé à droite dans le fichier d’origine : fournir l’original sans texte ou le refaire.
+Police Babylon : chiffres 4 à 9 vides et aucun accent, ces caractères utilisent la police de secours ; textes passés en majuscules pour l’homogénéité.
